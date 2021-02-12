@@ -16,3 +16,4 @@ public class Solution {
         System.out.println(c+"\n"+avg);
 
     }
+}
